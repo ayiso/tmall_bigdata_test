@@ -11,7 +11,7 @@ import mall as x
 #x.get_test_day_data(31)
 
 #calc_list = x.calculate_item(1, 31, 25, 30, 30, 20, 1, 35)
-x.calculate_item(0, 31, 31, 10, 10, 3, 1, 12)#test mode 1, normal mode 0
+x.calculate_item(0, 31, 31, 10, 10000, 3, 1, 10000)#test mode 1, normal mode 0
 #x.calculate_item(0, 30, 25, 30, 30, 20, 1, 35)#test mode 1, normal mode 0
 
 #real_list = x.get_result_day_buy_list(1) #1 item, other cate
